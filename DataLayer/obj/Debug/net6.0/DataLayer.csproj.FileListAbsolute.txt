@@ -1,0 +1,17 @@
+/Users/berk/Desktop/CoreApi/DataLayer/bin/Debug/net6.0/DataLayer.deps.json
+/Users/berk/Desktop/CoreApi/DataLayer/bin/Debug/net6.0/DataLayer.runtimeconfig.json
+/Users/berk/Desktop/CoreApi/DataLayer/bin/Debug/net6.0/DataLayer.dll
+/Users/berk/Desktop/CoreApi/DataLayer/bin/Debug/net6.0/DataLayer.pdb
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.csproj.AssemblyReference.cache
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.AssemblyInfoInputs.cache
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.AssemblyInfo.cs
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.csproj.CoreCompileInputs.cache
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.dll
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/refint/DataLayer.dll
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.pdb
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.genruntimeconfig.cache
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/ref/DataLayer.dll
+/Users/berk/Desktop/CoreApi/DataLayer/bin/Debug/net6.0/EntityLayer.dll
+/Users/berk/Desktop/CoreApi/DataLayer/bin/Debug/net6.0/EntityLayer.pdb
+/Users/berk/Desktop/CoreApi/DataLayer/obj/Debug/net6.0/DataLayer.csproj.CopyComplete
